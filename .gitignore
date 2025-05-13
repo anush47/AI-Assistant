@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# pytest
+.cache
+
+# pytype static type analyzer
+.pytype/
+
+# VSCode settings
+.vscode/
+
+# IDEs and editors
+.idea/
+
+# Environment variables
+.env
+
+# Virtual Environments
+venv/
+.venv/
