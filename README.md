@@ -12,7 +12,7 @@ This project is a Python-based AI assistant that helps automate command-line tas
 ## Prerequisites
 
 - Python 3.7 or higher
-- API keys for OpenAI and Google GenAI (set in environment variables or a `.env` file)
+- API keys for Google GenAI (set in environment variables or a `.env` file)
 
 ## Installation
 
@@ -22,7 +22,7 @@ This project is a Python-based AI assistant that helps automate command-line tas
 
    ```bash
    python -m venv venv
-   venv\\Scripts\\activate
+   venv\Scripts\activate
    ```
 
 3. Install the required dependencies:
